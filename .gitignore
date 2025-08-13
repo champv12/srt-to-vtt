@@ -3,3 +3,5 @@
 .DS_Store
 test_file_1.srt
 test_file_2.srt
+.venv
+pyrightconfig.json
