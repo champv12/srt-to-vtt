@@ -1,0 +1,8 @@
+.venv
+.idea
+.DS_Store
+pyrightconfig.json
+test_file_1.srt
+test_file_1.vtt
+test_file_2.srt
+test_file_2.vtt
