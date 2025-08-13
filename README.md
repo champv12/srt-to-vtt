@@ -10,7 +10,7 @@ This script will scan a directory you specify, find all `.srt` files within it, 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/champv12/srt-to-vtt>
     cd srt-to-vtt
     ```
 
