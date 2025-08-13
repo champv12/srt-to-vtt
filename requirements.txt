@@ -1,0 +1,2 @@
+#Python 3.12 required
+srt-to-vtt==1.4.0
