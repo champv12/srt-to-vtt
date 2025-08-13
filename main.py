@@ -14,7 +14,7 @@ def main():
         output_file = input_file.replace(".srt", ".vtt")
         srt_to_vtt(input_file, output_file)
     print(f"Successfully converted {num_files} files")
-    return (output_file)
+    return
 
 #run main function
 main()
